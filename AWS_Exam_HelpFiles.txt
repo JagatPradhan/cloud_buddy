@@ -9,9 +9,6 @@ AWS Well-Architected Framework
 Using AWS for Disaster Recovery
    https://d1.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf?did=wp_card&trk=wp_card
 
-AWS Solution Associate Study Path (Includes new SA02)
-   https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/
-
 Exam Readiness: AWS Certified Solutions Architect – Associate
    https://www.aws.training/Details/Curriculum?id=20685
 
