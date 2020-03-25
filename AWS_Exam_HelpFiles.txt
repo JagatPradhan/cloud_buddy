@@ -1,0 +1,25 @@
+# AWS help files for exam readiness #
+
+AWS Best Practice:
+   https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+
+AWS Well-Architected Framework
+   https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+
+Using AWS for Disaster Recovery
+   https://d1.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf?did=wp_card&trk=wp_card
+
+AWS Solution Associate Study Path (Includes new SA02)
+   https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/
+
+Exam Readiness: AWS Certified Solutions Architect – Associate
+   https://www.aws.training/Details/Curriculum?id=20685
+
+Services included in new SAA-C02 exam:
+     AWS Global Accelerator
+     Elastic Fabric Adapter(EFA)
+     Elastic Network Adapter(ENA)
+     AWS ParallelCluster
+     Amazon FSx
+     AWS DataSync
+     AWS Directory Service
